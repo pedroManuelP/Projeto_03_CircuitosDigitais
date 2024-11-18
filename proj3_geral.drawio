@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.8.4">
   <diagram name="Página-1" id="0LTI3dH6KVHP8nNDPYD0">
-    <mxGraphModel dx="1035" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="34r-FkiYNikVOV2Mms_5-54" value="" style="group" vertex="1" connectable="0" parent="34r-FkiYNikVOV2Mms_5-67">
           <mxGeometry y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34r-FkiYNikVOV2Mms_5-52" value="&lt;div&gt;Contador&lt;/div&gt;&lt;div&gt;5 segundos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="34r-FkiYNikVOV2Mms_5-54">
+        <mxCell id="34r-FkiYNikVOV2Mms_5-52" value="&lt;div&gt;Temporizador&lt;br&gt;&lt;/div&gt;&lt;div&gt;5 segundos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="34r-FkiYNikVOV2Mms_5-54">
           <mxGeometry width="119.99999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="34r-FkiYNikVOV2Mms_5-53" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="34r-FkiYNikVOV2Mms_5-54">
@@ -150,7 +150,7 @@
         <mxCell id="34r-FkiYNikVOV2Mms_5-69" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="445" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34r-FkiYNikVOV2Mms_5-70" value="&lt;div&gt;Contador&lt;/div&gt;&lt;div&gt;20 segundos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="34r-FkiYNikVOV2Mms_5-69">
+        <mxCell id="34r-FkiYNikVOV2Mms_5-70" value="&lt;div&gt;Temporizador&lt;br&gt;&lt;/div&gt;&lt;div&gt;20 segundos&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="34r-FkiYNikVOV2Mms_5-69">
           <mxGeometry x="-10" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="34r-FkiYNikVOV2Mms_5-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="34r-FkiYNikVOV2Mms_5-70">
